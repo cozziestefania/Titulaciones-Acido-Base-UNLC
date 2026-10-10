@@ -22,7 +22,6 @@
       ::-webkit-scrollbar-thumb:hover {
         background: #64748b; 
       }
-
       @keyframes dropFall {
         0% {
           transform: translate(-50%, 0) scale(0.7, 1.25);
@@ -45,7 +44,6 @@
           opacity: 0;
         }
       }
-
       @keyframes sampleWave {
         0% {
           width: 6px;
@@ -66,7 +64,6 @@
           transform: translate(-50%, -50%) scale(1.15);
         }
       }
-
       @keyframes splashBead {
         0% {
           transform: translate(-50%, 0);
